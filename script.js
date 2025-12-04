@@ -4,12 +4,12 @@
 // 🚨 [중요] 1단계에서 복사한 본인의 키값으로 아래 내용을 바꿔주세요!
 // =========================================================
 const firebaseConfig = {
-  apiKey: "AIzaSyD4m17c3vdKM4p1c0sp0CJ6fetUwf5A0xA",
-  authDomain: "pharmacy-sch-251127.firebaseapp.com",
-  projectId: "pharmacy-sch-251127",
-  storageBucket: "pharmacy-sch-251127.firebasestorage.app",
-  messagingSenderId: "1028219799154",
-  appId: "1:1028219799154:web:669dc1a10e7a1f5f8f64eb"
+  apiKey: "AIzaSyBeVPsoEQcFyw_paJAX2w55t-gWr_bcsic",
+  authDomain: "pharmacy-mdcmr.firebaseapp.com",
+  projectId: "pharmacy-mdcmr",
+  storageBucket: "pharmacy-mdcmr.firebasestorage.app",
+  messagingSenderId: "743872274330",
+  appId: "1:743872274330:web:f83c8886323f537e262423"
 };
 
 
@@ -541,4 +541,5 @@ function selectColor(color) {
     }
     
     closeColorModal();
+
 }
